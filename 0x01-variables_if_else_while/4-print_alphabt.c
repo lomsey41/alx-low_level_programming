@@ -1,20 +1,23 @@
 #include <stdio.h>
+
 /**
-* main - Entry point
-* Return: Always 0 (Success/correct)
-*/
+ * main - Entry point
+ *
+ * Return: always 0
+ *
+ */
 int main(void)
 {
-char alphabet;
+	char a;
 
-for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
-{
-if (alphabet == 'q')
-continue;
-else if (alphabet == 'e')
-continue;
-putchar(alphabet);
-}
-putchar('\n');
-return (0);
+	for (a = 'a'; a <= 'z'; a++)
+	{
+		if (a == 'e' || a == 'q')
+		{
+			continue;
+		}
+		putchar(a);
+	}
+	putchar('\n');
+	return (0);
 }
