@@ -1,25 +1,25 @@
-#include "main.h"
+#include"main.h"
 
 /**
-* print_alphabet_x10 - prints alphabets 10
-* Description: prints 10 times
-*
-* Return: Always(0).
-*/
+ * print_alphabet_x10 - prints alphabets 10x to user
+ *
+ *description: print a - z 10 times on different lines
+ *
+ */
+
 void print_alphabet_x10(void)
 {
-	int alphabet_count = 0;
+	int x;
 
-	while (alphabet_count < 10)
+	for (x = 0; x < 10; x++)
 	{
-		char ch = 'a';
+		int alp;
 
-		while (ch <= 'z')
+		for (alp = 'a'; alp <= 'z'; alp++)
 		{
-			_putchar(ch);
-			ch++;
+			_putchar(alp);
 		}
-		alphabet_count++;
+
 		_putchar('\n');
 	}
 }

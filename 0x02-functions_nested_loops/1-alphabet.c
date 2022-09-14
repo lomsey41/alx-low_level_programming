@@ -1,16 +1,16 @@
-#include "main.h"
+#include"main.h"
 
 /**
-* print_alphabet - print alphabet of letters
-* Return: void
-*/
+ * print_alphabet - prints alphabet
+ *
+ * description: prints alphabets from a through z
+ */
+
 void print_alphabet(void)
 {
-	int i;
+	int ch;
 
-	for (i = 'a'; i <= 'z'; i++)
-	{
-		_putchar(i);
-	}
+	for (ch = 'a'; ch <= 'z'; ch++)
+		_putchar(ch);
 	_putchar('\n');
 }
