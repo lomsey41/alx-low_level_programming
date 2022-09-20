@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * print_rev - function
- * @s: pointer of parameter
+ * print_rev - a  function prints a string, in reverse,
+ * followed by a new line.
+ * @s: an input string
+ * Return: Nothingr
  */
 void print_rev(char *s)
 {
