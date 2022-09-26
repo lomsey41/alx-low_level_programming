@@ -1,5 +1,4 @@
 #include "main.h"
-#include <studio.h>
 
 /**
  * strchr - a function that locates a character in a string.
@@ -7,7 +6,7 @@
  * @c: an input character to locate into string s
  * Return: returns pointer to c position
  */
-char *_strchr(char *s, char c);
+char *_strchr(char *s, char c)
 {
 
 	while (*s)
