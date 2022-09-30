@@ -1,0 +1,48 @@
+!<arch>
+/               0           0     0     0       246       `
+ :�����$z*�0�6^<�B>H�ONU�[fazg�m�s�_isupper_memset_strcat_atoi_isdigit_memcpy_strncat_strchr_strlen_strncpy_islower_puts_strcmp_strspn_isalpha_strpbrk_strstr_abs_strcpy_putchar0-isupper.o/ 0 0 0 644 1400
+ELF>x@@��UH��}��}�@~ �}����]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�%E�C \�� %0-isupper.c_isupper .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@%!e'e,0e,5�E� ]�8X@���
+ 		�g0-memset.o/ 0 0 0 644 1424 `
+ELF>�@@��UH��H�}���U��E��E���U�H�E�H��E��E��E�;E�r�H�E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�?E�C v��?0-memset.c_memset .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@?,,5�E� ]�8X@	�
+ 		�(g0-strcat.o/ 0 0 0 644 1496 `
+ELF>�@@��UH��H�}�H�u��E���E��E�Hc�H�E�H����u��E��'�E�Hc�H�E�HЋU�Hc�H�U�H����E��E��E�Hc�H�E�H����uŋE�Hc�H�E�H��H�E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx��E�C ����0-strcat.c_strcat .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@�!�'�,0�,5�E� ]8X@X	P�
+ 		@pg100-atoi.o/ 0 0 0 644 1496 `
+ELF>�@@��UH��H�}��E��E�H�E��<-u�]��>H�E��</~-H�E��<"�U���������H�E����Ѓ�0�E���}�uH�E�H�PH�U����u����E��E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx��E�C ~���100-atoi.c_atoi .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@�!�'�,0�,5�E� ]8X@XP�
+ 		@pg1-isdigit.o/ 0 0 0 644 1400 `
+ELF>x@@��UH��}��}�/~ �}����]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�%E�C \�� %1-isdigit.c_isdigit .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@%!e'e,0e,5�E� ]�8X@��� 
+ 		�g1-memcpy.o/ 0 0 0 644 1448 `
+ELF>�@@��UH��H�}�H�u��U܋E܉E��}�~4�E��#�E�Hc�H�E�HЋU�Hc�H�U�H����E��E�;E�|�H�E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�YE�C P��Y1-memcpy.c_memcpy .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@Y!�'�,0�,5�E� ]�8X@(� 
+ 		@g1-strncat.o/ 0 0 0 644 1520 `
+ELF>�@@��UH��H�}�H�u��U��E��E���E��E�Hc�H�E�H����u��'�E�Hc�H�E�HЋU�Hc�H�U�H����E��E��E�;E�}�E�Hc�H�E�H����u��U��E��H�H�PH�E�H��H�E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx��E�C ��� �1-strncat.c_strncat .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@�!�'�,0�,5
+ E ]08X@p	h�
+ 		X�g2-strchr.o/ 0 0 0 644 1472 `
+ELF>�@@��UH��H�}���E��E���E��E�Hc�H�E�H����t�E�Hc�H�E�H��8E�uӋE�Hc�H�E�H��8E�u�E�Hc�H�E�H���]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�rE�C i��r2-strchr.c_strchr .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@r!�'�,0�,5�E� ]8X@@8� 
+ 		(Xg2-strlen.o/ 0 0 0 644 1408 `
+ELF>�@@��UH��H�}��E���E�H�E�H�E����u�E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�.E�C e��.2-strlen.c_strlen .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@.!n'n,0n,5�E� ]�8X@�� 
+ 		�g2-strncpy.o/ 0 0 0 644 1520 `
+ELF>�@@��UH��H�}�H�u��U��E��E���E��E�Hc�H�E�H����u��#�E�Hc�H�E�HЋU�Hc�H�U�H����E��E�;E�}*�E�Hc�H�E�H����u���E�Hc�H�E�H���E��E�;E�|�H�E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx��E�C ��� �2-strncpy.c_strncpy .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@�!�'�,0�,5E ]08X@p	h�
+ 		X�g3-islower.o/ 0 0 0 644 1400 `
+ELF>x@@��UH��}��}�`~ �}����]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�%E�C \�� %3-islower.c_islower .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@%!e'e,0e,5�E� ]�8X@��� 
+ 		�g3-puts.o/ 0 0 0 644 1640 `
+ELF>(@@ ��UH��H�� H�}��E���E�Hc�H�E�H��������E��E�Hc�H�E�H����uο
+ ����GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�XE�C O��
+ X&3-puts.c_puts_GLOBAL_OFFSET_TABLE__putchar/��������Q�������� .symtab.strtab.shstrtab.rela.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @X@p0
+ &�,�10�,:�J� b�8]@�
+ 		@/�l3-strcmp.o/ 0 0 0 644 1584 `
+ELF>0@@��UH��H�}�H�u��E��E��E��E���E��E�Hc�H�E�H����u���E��E�Hc�H�E�H����u�E�;E��E�E��a�E��E��Y�E�Hc�H�E�H���E�Hc�H�E�H��8�u�E��/�E�Hc�H�E�H���ЋE�Hc�H�E�H����)‰ЉE���E�;E�~��E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx��E�C ����3-strcmp.c_strcmp .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@�!',0,5JEP ]p8X@�	��
+ 		��g3-strspn.o/ 0 0 0 644 1568 `
+ELF> @@��UH��H�}�H�u��E��E���E��n�E�Hc�H�E�H���E�Hc�H�E�H��8�u�E��\�E�H�H�PH�E�H����u)�E�Hc�H�E�H���E�Hc�H�E�H��8�t�E��;�E��E�Hc�H�E�H�����z����E��E�Hc�H�E�H�����U����E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx��E�C ����3-strspn.c_strspn .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@�!',0,5?E@ ]`8X@��� 
+ 		��g4-isalpha.o/ 0 0 0 644 1408 `
+ELF>�@@��UH��}��}�`~�}�z~�}�@~ �}����]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�1E�C h�� 14-isalpha.c_isalpha .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@1!q'q,0q,5�E� ]�8X@	��
+ 		�g4-strpbrk.o/ 0 0 0 644 1496 `
+ELF>�@@��UH��H�}�H�u��E��X�E��7�E�Hc�H�E�H���E�Hc�H�E�H��8�u�E�H�HE�H�E��5�E��E�Hc�H�E�H����u��E��E�Hc�H�E�H����u��]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx��E�C ��� �4-strpbrk.c_strpbrk .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@�!�'�,0�,5�E� ]8X@X	P�
+ 		@pg5-strstr.o/ 0 0 0 644 1584 `
+ELF>0@@��UH��H�}�H�u��E�H�E������H�E���E�Hc�H�E�H��H�E��8�uu�E�E��E��,�E�Hc�H�E�H���E�Hc�H�E�H��8�u�E��E��E�Hc�H�E�H����u����E�Hc�H�E�H����u�E�Hc�H�E�H��!�E��E�Hc�H�E�H�����T����]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx��E�C ����5-strstr.c_strstr .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@�!"'",0",5NEP ]p8X@��� 
+ 		��g6-abs.o/ 0 0 0 644 1384 `
+ELF>h@@��UH��}��}�y�E�����E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�E�C T��	6-abs.c_abs .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@!]'],0],5�E� ]�8X@���
+ 		�g9-strcpy.o/ 0 0 0 644 1472 `
+ELF>�@@��UH��H�}�H�u��E��E��'�E�Hc�H�E�HЋU�Hc�H�U�H����E��E��E�Hc�H�E�H����uŋE�Hc�H�E�H��H�E�]�GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�qE�C h��q9-strcpy.c_strcpy .symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame@q!�'�,0�,5�E� ]8X@@8� 
+ 		(Xg_putchar.o/ 0 0 0 644 1576 `
+ELF>�@@ ��UH��H�����E�H�E��H�ƿ���GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0GNU�zRx�)E�C `��)+_putchar.c_putchar_GLOBAL_OFFSET_TABLE_write#�������� .symtab.strtab.shstrtab.rela.text.data.bss.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @)@H
+ &i,i10i,:�J� b�8]@`
+ � 		1xl
