@@ -2,32 +2,46 @@
 #include <stdlib.h>
 
 /**
- * alloc_grid - A function tjat returns a pointer to a
+ * alloc_grid - returns a pointer to a
  * 2 dimentional array of integers
- * @width: An input integer at number of columns
- * @height: An input integer at number of rows
- * Return: Pointer to 2D array, NULL on failure
+ * @width: width of array
+ * @height: height of array
+ * Return: pointer to the array
  */
 int **alloc_grid(int width, int height)
 {
-	int **array,
-	int  i = 0, j;
+	int **array;
+	int i = 0, j;
 
-	if (width <  0 || height <  0)
+	if (width == 0 || height == 0)
 		return (NULL);
-
-	array = (int **)malloc(sizeof(int *) * height);
-	if (array == NULL)
-		return (NULL);
-	for (; i < height; i++)
+	array = (int **) malloc(sizeof(int *) * height);
+	if (array != NULL)
 	{
-		array[i] = (int *)malloc(sizeof(int) * width);
-		if (array[i] == NULL)
-			return (NULL);
-	}
+		for (; i < height; i++)
+		{
+			array[i] = (int *) malloc(sizeof(int) * width);
+			if (array[i] != NULL)
+			{
+				for (j = 0; j < width; j++)
+					array[i][j] = 0;
+				{
+					else
+				}
 
-	for (i = 0; i < height; i++)
-		for (; j < width; j++)
-			array[i][j] = 0;
-	return (array);
+				while (i >= 0)
+				{
+					free(array[i]);
+					i--;
+					{
+						free(array);
+						return (NULL);
+					}
+				}
+				return (array);
+			}
+			else
+		}
+		return (NULL);
+	}
 }
