@@ -34,18 +34,18 @@ char *argstostr(int ac, char **av)
 		return (NULL);
 	}
 
-	for (i = j = ia = 0; ia < c; j++, ia++)
+	for (i = j = ai = 0; ai < c; j++, ai++)
 	{
 		if (av[i][j] == '\0')
 		{
-			aout[ia] = '\n';
+			aout[ai] = '\n';
 			i++;
-			ia++;
+			ai++;
 			j = 0;
 		}
-		if (ia < c - 1)
-			aout[ia] = av[i][j];
+		if (ai < c - 1)
+			aout[ai] = av[i][j];
+		 aout[ai] = '\0';
 	}
-	aout[ia] = '\0";
 	return (aout);
 }
