@@ -1,4 +1,9 @@
-#include "vaiadic_functions.h"
+/*
+ * File: 0-sum_them_all.c
+ * Auth: Salome Bassey
+ */
+
+#include "variadic_functions.h"
 #include <stdarg.h>
 
 /**
