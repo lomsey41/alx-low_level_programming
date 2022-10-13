@@ -3,7 +3,6 @@
  * Auth: Salome Bassey
  */
 
-#include "variadic_functions.h"
 #include <stdarg.h>
 
 /**
